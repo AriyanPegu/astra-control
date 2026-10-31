@@ -1,5 +1,5 @@
-version=2.3.6
-min_version=2.3.5
+version=2.3.7
+min_version=2.3.7
 status=active
 message=This Version is outdated
 runtime_parts=2
