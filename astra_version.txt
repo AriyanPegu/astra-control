@@ -1,4 +1,4 @@
-version=2.3.7
+version=2.3.8
 min_version=2.3.7
 status=active
 message=This Version is outdated
